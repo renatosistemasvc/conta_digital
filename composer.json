@@ -1,0 +1,19 @@
+{
+    "name": "renatosistemasvc/contadigital",
+    "description": "Conta digital",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Renato Souza de Oliveira",
+            "email": "renatosistemas.vc@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload" : {
+        "psr-4" : {
+            "Contadigital\\" :  "src/"
+        }
+    }
+}
